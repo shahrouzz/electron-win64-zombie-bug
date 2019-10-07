@@ -1,0 +1,9 @@
+{
+  "name": "electron-zombie-process-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^6.0.11"
+  }
+}
